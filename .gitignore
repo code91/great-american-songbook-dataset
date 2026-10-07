@@ -1,0 +1,12 @@
+# Source PDFs are not redistributed. sources.json names every edition.
+data/
+.venv/
+__pycache__/
+*.pyc
+requirements.txt
+0*.py
+sources.json
+build_broadway.py
+build_dataset.py
+fix_titles.py
+categories.py
