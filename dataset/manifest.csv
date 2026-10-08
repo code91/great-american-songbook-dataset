@@ -4,9 +4,9 @@ A Fine Romance,film,1936,Jerome Kern,Dorothy Fields,,Bb,major,no,33,100.0,82,76,
 A House Is Not A Home,film,1964,Burt Bacharach,Hal David,,A,minor,no,39,100.0,177,160,,attributed
 A Hundred Years From Today,tin_pan_alley,1933,Victor Young,"Joe Young, Ned Washington",,C,major,no,29,100.0,119,88,2,sourced
 A Ship Without A Sail,stage,1929,Richard Rodgers,Lorenz Hart,,A,major,no,56,100.0,167,153,,attributed
-A Sinner Kissed An Angel,tin_pan_alley,1941,Larry Shayne,Mack David,,F,major,no,32,100.0,138,127,3,attributed
+A Sinner Kissed An Angel,tin_pan_alley,1941,Larry Shayne,Mack David,,F,major,no,32,100.0,138,127,3,sourced
 A Sleepin Bee,stage,1954,Harold Arlen,Truman Capote,House of Flowers,Ab,major,no,54,98.1,194,180,0,attributed
-A Weaver Of Dreams,tin_pan_alley,1951,Victor Young,Jack Elliott,,G,major,no,32,100.0,106,104,1,attributed
+A Weaver Of Dreams,tin_pan_alley,1951,Victor Young,Jack Elliott,,G,major,no,32,100.0,106,104,1,sourced
 Accentuate The Positive,film,1944,Harold Arlen,Johnny Mercer,Here Come the Waves,Eb,major,no,33,100.0,146,122,18,attributed
 Ain't No Sunshine,pop,1971,Bill Withers,Bill Withers,,A,minor,no,37,83.8,230,168,,attributed
 Ain't Nobody Here But Us Chickens,tin_pan_alley,1946,Alex Kramer,Joan Whitney,,Bb,major,no,57,100.0,288,192,10,attributed
@@ -21,7 +21,7 @@ Any Place I Hang My Hat is Home,stage,1946,Harold Arlen,Johnny Mercer,St. Louis 
 Anything Goes,stage,1934,Cole Porter,Cole Porter,,C,major,yes,47,,196,167,,attributed
 As Long As I Live,stage,1934,Harold Arlen,Ted Koehler,Cotton Club,Eb,major,no,26,100.0,127,98,2,attributed
 Ask Me Again,tin_pan_alley,1930,George Gershwin,Ira Gershwin,,Bb,major,no,42,100.0,162,0,141,sourced
-At Last,tin_pan_alley,1941,Harry Warren,Mack Gordon,,C,minor,no,32,100.0,96,84,1,attributed
+At Last,film,1941,Harry Warren,Mack Gordon,,C,minor,no,32,100.0,96,84,1,sourced
 At Long Last Love,stage,1938,Cole Porter,Cole Porter,,Bb,major,yes,33,,97,85,,attributed
 Autumn Nocturne,tin_pan_alley,1941,Josef Myrow,Kim Gannon,,C,major,no,38,94.7,184,164,0,attributed
 Baltimore Oriole,tin_pan_alley,1942,Hoagy Carmichael,Paul Francis Webster,,F,minor,no,36,83.3,160,116,32,sourced
@@ -30,7 +30,7 @@ Bewitched,stage,1940,Richard Rodgers,Lorenz Hart,Pal Joey,Bb,major,no,33,100.0,1
 Blue Champagne,tin_pan_alley,1941,"Grady Watts, Frank Ryerson",Jimmy Eaton,,C,major,no,34,100.0,146,115,0,attributed
 Bluesette,bossa,1962,Toots Thielemans,Norman Gimbel,,F,major,no,88,19.3,159,142,1,attributed
 Born To Be Blue,tin_pan_alley,1946,Mel Torme,Robert Wells,,C,major,no,32,100.0,160,109,3,attributed
-Boulevard Of Broken Dreams,tin_pan_alley,1933,Harry Warren,Al Dubin,,Eb,minor,no,33,100.0,178,142,0,attributed
+Boulevard Of Broken Dreams,film,1933,Harry Warren,Al Dubin,,Eb,minor,no,33,100.0,178,142,0,knowledge
 But Not For Me,stage,1930,George Gershwin,Ira Gershwin,,Bb,minor,no,57,96.5,159,157,0,attributed
 By The Time I Get To Phoenix,pop,1967,Jimmy Webb,Jimmy Webb,,Ab,major,no,29,100.0,76,63,0,attributed
 California Dreamin',pop,1965,"John Phillips, Michelle Phillips","John Phillips, Michelle Phillips",,Bb,minor,no,41,100.0,119,93,0,attributed
@@ -39,8 +39,8 @@ Can't Get Out Of This Mood,film,1942,Jimmy McHugh,Frank Loesser,,Bb,major,no,41,
 Can't Take You Nowhere,undetermined,,,,,G,major,no,50,82.0,266,152,4,none
 Change Partners,film,1938,Irving Berlin,Irving Berlin,,Eb,major,no,56,100.0,145,124,0,attributed
 Charade,film,1963,Henry Mancini,Johnny Mercer,,Eb,minor,no,71,2.8,125,108,0,attributed
-Cinnamon and Clove,tin_pan_alley,1966,Johnny Mandel,Marilyn and Alan Bergman,,Bb,minor,no,63,100.0,207,139,0,attributed
-Close Enough For Love,tin_pan_alley,1979,Johnny Mandel,Paul Williams,,A,minor,no,34,100.0,112,110,0,attributed
+Cinnamon and Clove,tin_pan_alley,1966,Johnny Mandel,Marilyn and Alan Bergman,,Bb,minor,no,63,100.0,207,139,0,sourced
+Close Enough For Love,film,1979,Johnny Mandel,Paul Williams,,A,minor,no,34,100.0,112,110,0,knowledge
 Come Dance With Me,film,1959,Jimmy Van Heusen,Sammy Cahn,,G,major,no,44,97.7,175,123,1,attributed
 Come In From The Rain,pop,1976,Melissa Manchester,Carole Bayer Sager,,G,major,no,41,100.0,181,156,2,attributed
 Dancing on the Ceiling,stage,1930,Richard Rodgers,Lorenz Hart,Simp,F,major,no,52,100.0,151,138,1,attributed
@@ -50,19 +50,19 @@ Day Dream,jazz,1940,"Duke Ellington, Billy Strayhorn",John Latouche,,Eb,major,no
 Desafinado,bossa,1959,Antonio Carlos Jobim,Newton Mendonca,,F,major,no,60,100.0,240,173,1,attributed
 Detour Ahead,tin_pan_alley,1947,"Herb Ellis, Lou Carter, Johnny Frigo","Herb Ellis, Lou Carter, Johnny Frigo",,C,major,no,28,100.0,119,111,1,attributed
 Didn't We,pop,1967,Jimmy Webb,Jimmy Webb,,Bb,major,no,28,96.4,94,77,0,attributed
-Do You Know What It Means To Miss New Orleans,tin_pan_alley,1947,Louis Alter,Eddie DeLange,,C,major,no,33,100.0,171,117,0,attributed
-Don't Be That Way,tin_pan_alley,1934,"Benny Goodman, Edgar Sampson",Mitchell Parish,,Db,minor,no,33,90.9,88,0,75,attributed
+Do You Know What It Means To Miss New Orleans,film,1947,Louis Alter,Eddie DeLange,,C,major,no,33,100.0,171,117,0,knowledge
+Don't Be That Way,jazz,1934,"Benny Goodman, Edgar Sampson",Mitchell Parish,,Db,minor,no,33,90.9,88,0,75,knowledge
 Don't Fence Me In,stage,1934,Cole Porter,"Robert Fletcher, Cole Porter",,F,major,yes,33,,157,149,,attributed
 Don't Get Around Much Anymore,jazz,1940,Duke Ellington,Bob Russell,,C,major,no,38,73.7,135,117,1,attributed
 Don't Let Me Be Lonely Tonight,pop,1972,James Taylor,James Taylor,,D,major,no,42,92.9,203,109,7,attributed
 Don't Like Goodbyes,stage,1954,Harold Arlen,Truman Capote,House of Flowers,Db,minor,no,51,100.0,203,153,0,attributed
 Don't Look Back,undetermined,,,,,F,major,no,40,100.0,119,106,0,none
-Don't Misunderstand,tin_pan_alley,1972,Gordon Parks,Gordon Parks,,F,major,no,37,100.0,123,90,,attributed
+Don't Misunderstand,film,1972,Gordon Parks,Gordon Parks,,F,major,no,37,100.0,123,90,,knowledge
 Don't You Know I Care,jazz,1944,Duke Ellington,Mack David,,C,major,no,27,100.0,97,82,1,attributed
 Down With Love,stage,1937,Harold Arlen,Yip Harburg,Hooray for What,Bb,major,no,48,100.0,143,124,1,attributed
 Dream Dancing,stage,1941,Cole Porter,Cole Porter,,Bb,major,yes,54,,127,109,,attributed
 Dreamsville,film,1959,Henry Mancini,"Jay Livingston, Ray Evans",,F,major,no,32,100.0,83,75,0,attributed
-Early Autumn,tin_pan_alley,1949,"Ralph Burns, Woody Herman",Johnny Mercer,,C,minor,no,33,100.0,154,132,1,attributed
+Early Autumn,jazz,1949,"Ralph Burns, Woody Herman",Johnny Mercer,,C,minor,no,33,100.0,154,132,1,sourced
 Easy To Love,stage,1936,Cole Porter,Cole Porter,,Eb,major,yes,48,,136,124,,attributed
 Every Time We Say Goodbye,stage,1944,Cole Porter,Cole Porter,,Eb,major,yes,38,,128,110,,attributed
 Everybody's Talkin',pop,1966,Fred Neil,Fred Neil,,Eb,major,no,37,100.0,124,96,96,attributed
@@ -87,13 +87,13 @@ Here's That Rainy Day,stage,1953,Jimmy Van Heusen,Johnny Burke,,F,major,no,32,10
 "His Eyes, Her Eyes",film,1968,Michel Legrand,Marilyn and Alan Bergman,,G,major,no,38,100.0,111,104,1,attributed
 Hit The Road to Dreamland,stage,1942,Harold Arlen,Johnny Mercer,Star Spangled,F,major,no,29,100.0,89,80,1,attributed
 How Do You Keep the Music Playing,film,1982,Michel Legrand,Marilyn and Alan Bergman,,Eb,major,no,46,100.0,177,160,2,attributed
-How Little We Know,tin_pan_alley,1944,Hoagy Carmichael,Johnny Mercer,,F,major,no,41,100.0,163,103,4,attributed
+How Little We Know,film,1944,Hoagy Carmichael,Johnny Mercer,,F,major,no,41,100.0,163,103,4,knowledge
 How Long Has,stage,1928,George Gershwin,Ira Gershwin,,Eb,major,no,32,100.0,127,107,0,knowledge
 I Believe in You,stage,1961,Frank Loesser,Frank Loesser,,Ab,major,no,65,100.0,124,113,1,attributed
 I Concentrate On You,stage,1940,Cole Porter,Cole Porter,,C,major,yes,72,,163,141,,attributed
 I Could Have Told You,tin_pan_alley,1954,Jimmy Van Heusen,Carl Sigman,,Ab,major,no,33,100.0,115,100,4,attributed
 I Cover the Waterfront,tin_pan_alley,1933,Johnny Green,Edward Heyman,,Eb,major,no,45,100.0,177,150,2,sourced
-I Fall in Love Too Easily,tin_pan_alley,1944,Jule Styne,Sammy Cahn,,Bb,major,no,16,100.0,62,53,0,attributed
+I Fall in Love Too Easily,film,1944,Jule Styne,Sammy Cahn,,Bb,major,no,16,100.0,62,53,0,knowledge
 I Get a Kick Out of You,stage,1934,Cole Porter,Cole Porter,,C,major,yes,64,,145,133,,attributed
 I Get Along Without You Very Well,tin_pan_alley,1939,Hoagy Carmichael,Hoagy Carmichael,,Bb,major,no,52,100.0,146,127,0,attributed
 I Had The Craziest Dream,film,1942,Harry Warren,Mack Gordon,,C,major,no,24,100.0,119,77,0,attributed
@@ -102,7 +102,7 @@ I Let A Song Go Out Of My Heart,jazz,1938,Duke Ellington,"Irving Mills, Henry Ne
 I May Be Wrong,stage,1929,Henry Sullivan,Harry Ruskin,,Ab,major,no,48,100.0,136,119,,knowledge
 I Only Have Eyes For You,film,1934,Harry Warren,Al Dubin,,Bb,minor,no,37,100.0,109,93,0,attributed
 I Remember You,film,1941,Victor Schertzinger,Johnny Mercer,,G,minor,no,40,100.0,102,96,0,attributed
-I Should Care,tin_pan_alley,1944,"Axel Stordahl, Paul Weston",Sammy Cahn,,C,minor,no,32,100.0,89,89,1,attributed
+I Should Care,film,1944,"Axel Stordahl, Paul Weston",Sammy Cahn,,C,minor,no,32,100.0,89,89,1,sourced
 I Want to Talk About You,tin_pan_alley,1944,Billy Eckstine,Billy Eckstine,,Bb,minor,no,33,100.0,142,115,0,attributed
 I Was Doing All Right,stage,1938,George Gershwin,Ira Gershwin,,F,minor,no,34,100.0,109,105,0,attributed
 I Will Wait For You,film,1964,Michel Legrand,Norman Gimbel,,G,minor,no,45,100.0,131,116,,attributed
@@ -123,14 +123,14 @@ I've Never Been In Love Before,stage,1950,Frank Loesser,Frank Loesser,,Bb,minor,
 If The Moon Turns Green,tin_pan_alley,1935,Bernie Hanighen,Paul Coates,,Bb,major,no,39,100.0,195,169,2,attributed
 Imagination,film,1940,Jimmy Van Heusen,Johnny Burke,,Db,major,no,37,97.3,134,126,0,attributed
 In A Mellow Tone,jazz,1939,Duke Ellington,Milt Gabler,,A,major,no,33,100.0,96,70,,attributed
-In love In Vain,tin_pan_alley,1946,Jerome Kern,Leo Robin,,Eb,major,no,33,100.0,100,97,0,attributed
+In love In Vain,film,1946,Jerome Kern,Leo Robin,,Eb,major,no,33,100.0,100,97,0,knowledge
 In My Solitude,jazz,1934,Duke Ellington,"Eddie DeLange, Irving Mills",,Ab,minor,no,33,100.0,90,78,0,attributed
 In Sentimental Mood,jazz,1935,Duke Ellington,"Manny Kurtz, Irving Mills",,A,major,no,26,100.0,107,83,,attributed
 In the Still of the Night,stage,1937,Cole Porter,Cole Porter,,F,major,yes,77,,124,100,,attributed
 Indian Summer,tin_pan_alley,1919,Victor Herbert,Al Dubin,,F,major,no,32,100.0,123,76,1,attributed
 Invitation,film,1952,Bronislau Kaper,Paul Francis Webster,,C,minor,no,48,97.9,151,124,1,attributed
 Isn't It A Pity,stage,1933,George Gershwin,Ira Gershwin,,A,major,no,48,100.0,201,160,,attributed
-It Could Happen to You,tin_pan_alley,1944,Jimmy Van Heusen,Johnny Burke,,Eb,major,no,32,100.0,70,67,0,attributed
+It Could Happen to You,film,1944,Jimmy Van Heusen,Johnny Burke,,Eb,major,no,32,100.0,70,67,0,knowledge
 It Had Better Be Tonight,film,1963,Henry Mancini,Johnny Mercer,,A,minor,no,68,100.0,148,100,2,attributed
 It Shouldn't Happen To A Dream,jazz,1946,Duke Ellington,"Don George, Johnny Hodges",,A,major,no,44,81.8,245,170,,attributed
 It's All Right With Me,stage,1953,Cole Porter,Cole Porter,,C,major,yes,61,,146,124,,attributed
@@ -141,7 +141,7 @@ Jitterbug Waltz,jazz,1942,Fats Waller,Richard Maltby Jr.,,Eb,major,no,38,5.3,143
 Joy Spring,jazz,1954,Clifford Brown,Jon Hendricks,,Bb,major,no,33,100.0,182,160,,attributed
 Just One of Those Things,stage,1935,Cole Porter,Cole Porter,,F,major,yes,63,,146,120,,attributed
 Just Squeeze Me,jazz,1941,Duke Ellington,Lee Gaines,,F,minor,no,26,100.0,104,83,4,attributed
-"Just You, Just Me",tin_pan_alley,1929,Jesse Greer,Raymond Klages,,C,major,no,32,100.0,77,64,0,attributed
+"Just You, Just Me",film,1929,Jesse Greer,Raymond Klages,,C,major,no,32,100.0,77,64,0,knowledge
 Landslide,pop,1975,Stevie Nicks,Stevie Nicks,,Eb,minor,no,89,97.8,268,193,,attributed
 Lazy Bones,tin_pan_alley,,Hoagy Carmichael,,,Eb,major,no,32,96.9,137,125,3,attributed
 Let's Get Away From It All,tin_pan_alley,1941,Matt Dennis,Tom Adair,,C,major,no,32,100.0,142,119,5,attributed
@@ -153,7 +153,7 @@ Look For The Silver Lining,stage,1920,Jerome Kern,Buddy DeSylva,,C,major,no,32,1
 Lost In The Stars,stage,1949,Kurt Weill,Maxwell Anderson,,F,major,no,48,100.0,217,165,6,attributed
 Love Came On Stealthy Fingers,film,1968,Michael Dees,Michael Dees,,F,major,no,33,100.0,152,122,0,attributed
 Love For Sale,stage,1930,Cole Porter,Cole Porter,,Bb,minor,yes,84,,213,196,,attributed
-Love Makes the Changes,tin_pan_alley,,Michel Legrand,,,Bb,major,no,30,93.3,194,147,4,attributed
+Love Makes the Changes,tin_pan_alley,,Michel Legrand,,,Bb,major,no,30,93.3,194,147,4,unresolved
 Love Walked In,stage,1938,George Gershwin,Ira Gershwin,,Bb,major,no,47,100.0,126,122,0,attributed
 Lullaby Of The Leaves,tin_pan_alley,1932,Bernice Petkere,Joe Young,,G,minor,no,32,100.0,135,120,,attributed
 Maybe You'll Be There,tin_pan_alley,1947,Rube Bloom,Sammy Gallop,,C,major,no,30,100.0,131,118,3,attributed
@@ -182,7 +182,7 @@ Peace,jazz,1959,Horace Silver,Horace Silver,,F,major,no,11,81.8,50,44,0,attribut
 Pick Yourself Up,film,1936,Jerome Kern,Dorothy Fields,,F,major,no,37,100.0,144,131,1,attributed
 Pieces of Dreams,film,1970,Michel Legrand,Marilyn and Alan Bergman,,C,major,no,44,100.0,165,139,2,attributed
 Please Be Kind,tin_pan_alley,1938,Saul Chaplin,Sammy Cahn,,C,major,no,32,100.0,90,85,0,attributed
-Please Don't Talk About Me When I'm Gone,tin_pan_alley,1930,Sam H. Stept,Sidney Clare,,C,major,no,32,100.0,111,92,1,attributed
+Please Don't Talk About Me When I'm Gone,tin_pan_alley,1930,Sam H. Stept,Sidney Clare,,C,major,no,32,100.0,111,92,1,sourced
 Quietly There,film,1966,Johnny Mandel,Johnny Mercer,,Eb,major,no,48,100.0,135,106,0,attributed
 Reflections,undetermined,,,,,Bb,major,no,26,92.3,109,97,1,none
 Rules of the Road,tin_pan_alley,1961,Cy Coleman,Carolyn Leigh,,F,major,no,37,100.0,171,128,1,attributed
@@ -211,7 +211,7 @@ The Lamp is Low,tin_pan_alley,1939,"Peter DeRose, Bert Shefter",Mitchell Parish,
 The Last Dance,tin_pan_alley,1958,Jimmy Van Heusen,Sammy Cahn,,G,major,no,37,100.0,128,111,0,attributed
 The Moon Is Harsh Mistress,tin_pan_alley,1974,Jimmy Webb,Jimmy Webb,,A,major,no,39,89.7,147,98,,attributed
 The More I See You,film,1945,Harry Warren,Mack Gordon,,Eb,major,no,33,100.0,94,81,0,attributed
-The Nearness Of You,tin_pan_alley,1938,Hoagy Carmichael,Ned Washington,,F,minor,no,31,100.0,92,82,3,attributed
+The Nearness Of You,film,1938,Hoagy Carmichael,Ned Washington,,F,minor,no,31,100.0,92,82,3,sourced
 The Night We Called It Day,tin_pan_alley,1941,Matt Dennis,Tom Adair,,A,major,no,26,100.0,89,79,,attributed
 The Party's Over,stage,1956,Jule Styne,"Betty Comden, Adolph Green",,C,major,no,37,100.0,116,98,1,attributed
 The Ruby and the Pearl,film,1952,Victor Young,"Jay Livingston, Ray Evans",,D,minor,no,43,81.4,105,83,0,sourced
@@ -220,8 +220,8 @@ The Shining Sea,film,1965,Johnny Mandel,Peggy Lee,,Bb,major,no,34,100.0,99,77,0,
 The Song Is You,stage,1932,Jerome Kern,Oscar Hammerstein II,,Bb,major,no,32,100.0,172,114,3,attributed
 The Summer Knows,film,1971,Michel Legrand,Marilyn and Alan Bergman,,D,minor,no,30,96.7,132,92,1,attributed
 The Way We Were,film,1973,Marvin Hamlisch,Marilyn and Alan Bergman,,Bb,major,no,43,100.0,144,124,2,attributed
-Then I'll Be Tired of You,tin_pan_alley,1934,Arthur Schwartz,Yip Harburg,,Bb,major,no,43,100.0,151,130,3,attributed
-There Will Never Be Another You,tin_pan_alley,1942,Harry Warren,Mack Gordon,,Db,major,no,33,100.0,97,92,0,attributed
+Then I'll Be Tired of You,tin_pan_alley,1934,Arthur Schwartz,Yip Harburg,,Bb,major,no,43,100.0,151,130,3,sourced
+There Will Never Be Another You,film,1942,Harry Warren,Mack Gordon,,Db,major,no,33,100.0,97,92,0,knowledge
 There'll Be Some Changes Made,tin_pan_alley,1921,Benton Overstreet,Billy Higgins,,Bb,major,no,19,100.0,107,80,0,attributed
 These Foolish Things,stage,1936,Jack Strachey,Eric Maschwitz,,C,major,no,32,100.0,136,110,6,sourced
 They all Laughed,stage,1937,George Gershwin,Ira Gershwin,,Eb,major,no,38,81.6,138,122,3,attributed
@@ -235,8 +235,8 @@ This Time the Dream's On Me,film,1941,Harold Arlen,Johnny Mercer,Blues in the Ni
 This Will Make You Laugh,tin_pan_alley,1941,Irene Higginbotham,Irene Higginbotham,,Eb,major,no,32,84.4,116,98,0,attributed
 Too Darn Hot,stage,1948,Cole Porter,Cole Porter,,C,minor,yes,22,,79,64,,attributed
 Trust In Me,tin_pan_alley,1936,"Milton Ager, Jean Schwartz",Ned Wever,,C,major,no,26,100.0,84,76,72,attributed
-Two Sleepy People,tin_pan_alley,1938,Hoagy Carmichael,Frank Loesser,,C,major,no,32,100.0,176,152,5,attributed
-Unless It's You,tin_pan_alley,1970,Johnny Mandel,Marilyn and Alan Bergman,,F,major,no,33,100.0,82,70,0,attributed
+Two Sleepy People,film,1938,Hoagy Carmichael,Frank Loesser,,C,major,no,32,100.0,176,152,5,knowledge
+Unless It's You,tin_pan_alley,1970,Johnny Mandel,Marilyn and Alan Bergman,,F,major,no,33,100.0,82,70,0,unresolved
 Until I Met You (Corner Pocket),jazz,1955,Freddie Green,Don Wolf,,C,minor,no,27,100.0,134,90,3,attributed
 Until The Real Thing Comes Along,tin_pan_alley,1936,"Mann Holiner, Alberta Nichols","Sammy Cahn, Saul Chaplin",,C,major,no,27,92.6,119,98,3,attributed
 Up A Lazy River,tin_pan_alley,1930,Hoagy Carmichael,Sidney Arodin,,A,major,no,18,94.4,107,85,,attributed
